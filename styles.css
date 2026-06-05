@@ -7,3 +7,10 @@ h1 {
 p {
   color: black;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
