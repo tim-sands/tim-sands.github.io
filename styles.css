@@ -7,6 +7,9 @@ h1 {
 p {
   color: black;
 }
+a {
+  display: inline-block;
+}
 
 .center {
   display: block;
